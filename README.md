@@ -1,17 +1,10 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
 
+# Welcome to LearnCS8 Resume Website
 
-Hi there! Welcome to AWS Cloud9!
+This is an template resume website built using Bootstrap. 
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+Follow the instructions on Lab 3 located at https://www.learncs8.com 
 
-Happy coding!
-# rsada004.github.io
-# rsada004.github.io
-# rsada004.github.io
+Special thanks to the open source bootstrap libraries that made this website possible.
+
+If you have any problems, please reach out to support on the LearnCS8.com homepage.
